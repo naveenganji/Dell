@@ -1,6 +1,7 @@
  class HelloWorld
 {
-	public static void main(String[] args) {
-		System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.                  HHHHHHHHHHHHHHHHHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII Hello World!");
+	public static void main(String[] args) 
+	{
+		System.out.println("Hiiiiiiiiiiiiiiiiiiiii Hello World!");
 	}
 }
