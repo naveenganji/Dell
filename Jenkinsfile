@@ -10,7 +10,7 @@ pipeline{
         stage("executing"){
             steps{
                 echo "========executing java program========"
-                echo "testing webhook change"
+                echo "testing webhook changes"
                 sh 'java HelloWorld'
             }
         }
