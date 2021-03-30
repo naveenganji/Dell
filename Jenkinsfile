@@ -11,6 +11,7 @@ pipeline{
             steps{
                 echo "========executing java program========"
                 echo "testing webhook change"
+                echo "java program"
                 sh 'java HelloWorld'
             }
         }
